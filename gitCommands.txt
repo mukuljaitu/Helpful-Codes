@@ -1,0 +1,37 @@
+git config --global user.name "Name"
+git config --global user.email "email"
+
+--------------------------------------
+cd/path/to/project
+
+--------------------------------------
+git init
+
+--------------------------------------
+git add . Or git add file.name
+
+--------------------------------------
+git commit -m "Commit message"
+
+--------------------------------------
+git remote add origin https://github.com/mukuljaitu/Helpful-Codes.git
+
+--------------------------------------
+git branch -M main
+git push -u origin main
+
+--------------------------------------DELETE--------------------------------------
+
+cd/path/to/project
+
+--------------------------------------
+del file.name
+
+--------------------------------------
+git add -u
+
+--------------------------------------
+git commit -m "Commit message"
+
+--------------------------------------
+git push
