@@ -1,0 +1,4 @@
+Whenever writing a python program, prefer creating a new evironment and installing all needed packages there. It avoids many problems later.
+*Commands:*
+1. python -m vene name
+2. name\script\activate
